@@ -1,3 +1,9 @@
 body{
 	color = #FFFFFFFF;
+	font-size = 14px;
 }
+
+input{
+	border:1px solid blue;
+}
+
